@@ -16,3 +16,4 @@
 
 ## /data/pretrained_model
 ###### 请到bert官网下载预训练的BERT模型
+##### BERT-Base, Chinese
